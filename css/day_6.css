@@ -1,0 +1,9 @@
+p{color: maroon;background-color: pink;}
+.bg-container{background-color: blueviolet;height:200px;background-image: url();}
+.box{width: 100px;height: 100px;background-color: black;padding-bottom: 50px;
+    border: 4px;
+    border-color: brown;
+    border-style: solid;
+    margin: 10px;
+    margin: 50px;
+}

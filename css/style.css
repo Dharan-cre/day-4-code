@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-size: borderbox */
+}
+h2{color: orange;}
+.para{color: pink;}
+#para1{color: purple;}
+.para{font-family: oswald;}
+.para{font-size: small;
+    text-transform: lowercase;}
+*{color: aquamarine;}
